@@ -4,12 +4,12 @@
 
 ## Change
 
-- [ ] Grammar/Word Correction
-- [ ] Material Change
+- [ ] Minor Change (e.g. an error correction)
+- [ ] Material Change (e.g. changing a rule or provision)
 - [ ] Other: ______
 
 Issues: NaN
 
 ## Description
 
-Please thoroughly describe what this pull request does.
+Please thoroughly describe what changes you've made and why you've made them.
