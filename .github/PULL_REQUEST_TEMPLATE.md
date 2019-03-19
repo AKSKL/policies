@@ -12,4 +12,4 @@ Issues: NaN
 
 ## Description
 
-Please thoroughly document what this pull request does.
+Please thoroughly describe what this pull request does.
