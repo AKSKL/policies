@@ -14,7 +14,7 @@ TypicalBot will be hosting all of it's legal documents and policies in this repo
 
 ## Format of Archived Documents
 
-The format of the archived documents should be `[YYYY-MM-DD]`.
+The format of the archived document file names should be `[YYYY-MM-DD]`.
 
 ## License
 
