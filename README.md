@@ -1,7 +1,7 @@
 TypicalBot Policies
 ===================
 
-> We will not be accepting pull requests from the general public. Only make a pull request if were given consent from TypicalBot Administration team. 
+> We will not be accepting pull requests from the general public. Only make a pull request if you are told to do so by the TypicalBot Administration team. 
 
 TypicalBot will be hosting all of it's legal documents and policies in this repository for transparency and versioning. 
 
