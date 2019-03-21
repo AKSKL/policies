@@ -4,22 +4,19 @@ In order to protect the experience and safety of the members of our community, w
 ---
 
 ## Advertising
-Do not advertise in our server or to our members. Advertising means sending messages or using other features of Discord in a manner designed to promote something that isn't related to the projects of the community.
+Do not advertise in our server or to our members. Advertising is defined as sending messages or using other features of Discord in a manner designed to promote something other than community-sponsored projects. If in doubt, ask a moderator before posting.
 
 ## Backseat Moderating
-Do not "backseat moderate". "Backseat moderating" means acting like or taking on the role of a moderator.
+Do not "backseat moderate". "Backseat moderating" is defined as acting like or taking on the role of a moderator.
 
 ## Behavior and Conduct
-Do not disrespect or harass anyone and do not make racist or obscene comments towards other members of the community. This includes, but is not limited to, using derogatory or vulgar language in a manner that's intended to disrespect or harass another member.
+Do not disrespect or harass anyone. This includes, but isn't limited to, making racist or obscene comments towards other members of the community and using derogatory or vulgar language in a manner that's intended to disrespect or harass another member.
 
 ## Impersonation
-Do not impersonate any person or group of people. Do not act in a manner that's intended to mislead others into believing that you are someone that you are not.
+Do not impersonate any person or group of people. Do not act in a manner that's intended to mislead others into believing that you are someone that you are not. 
 
-## Roles
-Do not ask for or request a role on our server. Additionally, do not mention a role on our server, even if it's mentionable. If you are in need of support, you can mention the @Support role, but we ask that you use this wisely.
-
-## Mentions
-Do not mention roles on the server, even if a role is set as mentionable. Do not mention a member excessively.
+## Roles and Mentions
+Do not ask for or request a role on our server. Additionally, do not mention a role on our server, even if it's mentionable. If you are in need of support, you can mention the @Support role, but we ask that you use this wisely. Members should not be mentioned excessively.
 
 ## Bugs
 Do not intentionally exploit bugs or issues with Discord or any of the bots on our server. Knowingly exploiting bugs in Discord or any of our bots in order to cause harm will result in a permanent ban from our community.
@@ -28,11 +25,11 @@ Do not intentionally exploit bugs or issues with Discord or any of the bots on o
 Do not post spam. Our definition of "spam" includes unsolicited advertising, [copypastas](https://www.urbandictionary.com/define.php?term=copypasta) and false PSAs. We also do not permit trolling of any kind in our community.
 
 ## NSFW
-Do not use vulgar language excessively. Do not post any messages that contain content that is NSFW. NSFW content includes, but isn't limited to, pornography, violence and other distribuing or objectionable content. Content that is prohibited by the [Discord Community Guidelines](https://discordapp.com/guidelines) is strictly forbidden in our community.
+Do not use vulgar language excessively. Do not post any messages that contain content that is NSFW. NSFW content includes, but isn't limited to, pornography, violence and other distributing or objectionable content. Content that is prohibited by the [Discord Community Guidelines](https://discordapp.com/guidelines) is strictly forbidden in our community.
 
 ## Contacting Staff
-If you have a question for staff, please use the server to communicate with them. Do not send a direct message to staff unless they ask you to do so. If you find a security issue with our bots or website, please report it to us responsibily.
+If you have a question for staff, please use the server to communicate with them. Do not send a direct message to staff unless they ask you to do so. If you find a security issue with our bots or website, please report it to us responsibly. Security vulnerabilities may be sent to us by email at security@typicalbot.com.
 
 ---
 
-If you break any of the above guidelines, you may be warned, kicked or banned from our community at the discretion of our moderators. Appeals may be  granted on a case-by-case basis at the discretion of community staff.
+If you break any of the above guidelines, you may be warned, kicked or banned from our community at the discretion of our moderators. Appeals may be granted on a case-by-case basis at the discretion of community staff.
