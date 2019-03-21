@@ -4,7 +4,7 @@ In order to protect the experience and safety of the members of our community, w
 ---
 
 ## Advertising
-Do not advertise in our community. By advertise, we mean send messages (in our server or by direct message) or use a nickname that are designed to promote something that isn't in connection with TypicalBot.
+Do not advertise in our server or to our members. Advertising means sending messages or using other features of Discord in a manner designed to promote something that isn't related to the projects of the community.
 
 ## Backseat Moderating
 Do not "backseat moderate". "Backseat moderating" means acting like or taking on the role of a moderator.
