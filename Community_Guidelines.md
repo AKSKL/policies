@@ -16,7 +16,7 @@ Do not disrespect or harass anyone. This includes, but isn't limited to, making 
 Do not impersonate any person or group of people. Do not act in a manner that's intended to mislead others into believing that you are someone that you are not. 
 
 ## Roles and Mentions
-Do not ask for or request a role on our server. Additionally, do not mention a role on our server, even if it's mentionable. If you are in need of support, you can mention the @Support role, but we ask that you use this wisely. Members should not be mentioned excessively.
+Do not ask for or request a role on our server. Additionally, do not mention a role on our server, even if it's mentionable. If you are in need of support, you can mention the `@Support` role, but we ask that you use this wisely. Members should not be mentioned excessively.
 
 ## Bugs
 Do not intentionally exploit bugs or issues with Discord or any of the bots on our server. Knowingly exploiting bugs in Discord or any of our bots in order to cause harm will result in a permanent ban from our community.
