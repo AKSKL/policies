@@ -1,14 +1,35 @@
-1. Do not advertise (including, but not limited to DMs, statuses, nicknames, and/or any other content designed to promote unsolicited content)
-2. Do not "backseat moderate" (including, but not limited to policing/enforcing rules and/or otherwise taking on the role of a staff member)
-3. Do not disrespect any member
-4. Do not request roles
-5. Do not mention any mentionable roles
-    Exception: If you have had no response to a request in the support channel after 5 minutes, you may ping the @Support role
-6. Do not mention any member/roles excessively
-7. Do not exploit any bugs or issues with any bots on the server
-8. Do not spam / post misleading content (including, but not limited to: copypastas, PSAs, and any other content that could be considered "trolling" or "spammy")
-9. Do not use vulgar language excessively
-10. Do not post NSFW or NSFL content (including, but not limited to pornography, violence/gore, and any other content that could be considered disturbing)
-11. Do not DM the staff unless given consent to do so
-	Exception: If extremely urgent, contact @Nick
-12. Do not post any content that violates the Discord Community Guidelines / Terms of Service
+# Community Guidelines
+In order to protect the experience and safety of the members of our community, we restrict the type of behavior and content that we allow. Every member is expected to adhere to the guidelines set forth in these Community Guidelines. Failure to do so may result in the temporary or permanent banning of your account.
+
+---
+
+## Advertising
+Do not advertise in our community. By advertise, we mean send messages (in our server or by direct message) or use a nickname that are designed to promote something that isn't in connection with TypicalBot.
+
+## Backseat Moderating
+Do not "backseat moderate". "Backseat moderating" means acting like or taking on the role of a moderator.
+
+## Disrespect and Harassment
+Do not disrespect or harass anyone.
+
+## Roles
+Do not ask for or request a role on our server. Additionally, do not mention a role on our server, even if it's mentionable. If you are in need of support, you can mention the @Support role, but we ask that you use this wisely.
+
+## Mentions
+Do not mention roles on the server, even if a role is set as mentionable. Do not mention a member excessively.
+
+## Bugs
+Do not exploit bugs or issues with Discord or any of the bots on our server.
+
+## Spam
+Do not post spam. Our definition of "spam" includes unsolicited advertising, [copypastas](https://www.urbandictionary.com/define.php?term=copypasta) and false PSAs. We also do not permit trolling of any kind in our community.
+
+## NSFW
+Do not use vulgar language excessively. Do not post any messages that contain content that is NSFW. NSFW content includes, but isn't limited to, pornography, violence and other distribuing or objectionable content. Content that is prohibited by the [Discord Community Guidelines](https://discordapp.com/guidelines) is strictly forbidden in our community.
+
+## Contacting Staff
+If you have a question for staff, please use the server to communicate with them. Do not send a direct message to staff unless they ask you to do so. If you find a security issue with our bots or website, please report it to us responsibily.
+
+---
+
+If you break any of the above guidelines, you may be warned, kicked or banned from our community at the discretion of our moderators. Appeals may be  granted on a case-by-case basis at the discretion of community staff.
