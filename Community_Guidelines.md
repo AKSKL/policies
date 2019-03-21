@@ -10,7 +10,10 @@ Do not advertise in our community. By advertise, we mean send messages (in our s
 Do not "backseat moderate". "Backseat moderating" means acting like or taking on the role of a moderator.
 
 ## Disrespect and Harassment
-Do not disrespect or harass anyone.
+Do not disrespect or harass anyone. This includes, but is not limited to, using derogatory or vulgar language towards other members of the community.
+
+## Impersonation
+Do not impersonate any person or group of people. Do not act in a manner that's intended to mislead others into believing that you are someone that you are not.
 
 ## Roles
 Do not ask for or request a role on our server. Additionally, do not mention a role on our server, even if it's mentionable. If you are in need of support, you can mention the @Support role, but we ask that you use this wisely.
@@ -19,7 +22,7 @@ Do not ask for or request a role on our server. Additionally, do not mention a r
 Do not mention roles on the server, even if a role is set as mentionable. Do not mention a member excessively.
 
 ## Bugs
-Do not exploit bugs or issues with Discord or any of the bots on our server.
+Do not intentionally exploit bugs or issues with Discord or any of the bots on our server. Knowingly exploiting bugs in Discord or any of our bots in order to cause harm will result in a permanent ban from our community.
 
 ## Spam
 Do not post spam. Our definition of "spam" includes unsolicited advertising, [copypastas](https://www.urbandictionary.com/define.php?term=copypasta) and false PSAs. We also do not permit trolling of any kind in our community.
