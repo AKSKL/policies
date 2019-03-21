@@ -9,8 +9,8 @@ Do not advertise in our community. By advertise, we mean send messages (in our s
 ## Backseat Moderating
 Do not "backseat moderate". "Backseat moderating" means acting like or taking on the role of a moderator.
 
-## Disrespect and Harassment
-Do not disrespect or harass anyone. This includes, but is not limited to, using derogatory or vulgar language towards other members of the community.
+## Behavior and Conduct
+Do not disrespect or harass anyone and do not make racist or obscene comments towards other members of the community. This includes, but is not limited to, using derogatory or vulgar language in a manner that's intended to disrespect or harass another member.
 
 ## Impersonation
 Do not impersonate any person or group of people. Do not act in a manner that's intended to mislead others into believing that you are someone that you are not.
