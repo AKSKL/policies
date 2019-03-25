@@ -10,13 +10,13 @@ Do not advertise in our server or to our members. Advertising is defined as send
 Do not "backseat moderate". "Backseat moderating" is defined as acting like or taking on the role of a moderator.
 
 ## Behavior and Conduct
-Do not disrespect or harass anyone. This includes, but is not limited to, making racist or obscene comments towards other members of the community and using derogatory or vulgar language in a manner that's intended to disrespect or harass another member.
+Do not disrespect or harass anyone. This includes, but is not limited to, making racist or obscene comments towards other members of the community and using derogatory or vulgar language in a manner that is intended to disrespect or harass another member.
 
 ## Impersonation
-Do not impersonate any person or group of people. Do not act in a manner that's intended to mislead others into believing that you are someone that you are not. 
+Do not impersonate any person or group of people. Do not act in a manner that is intended to mislead others into believing that you are someone that you are not. 
 
-## Roles and Mentions
-Do not ask for or request a role on our server. Additionally, do not mention a role on our server, even if it's mentionable. If you are in need of support, you can mention the `@Support` role, but we ask that you use this wisely. Members should not be mentioned excessively.
+## Mentions
+Except for the `Support` role, do not mention any role on our server. When mentioning the `Support` role, we ask that you use this ability wisely. Additionally, do not mention other members excessively or mention an excessive number of members in a short period of time.
 
 ## Bugs
 Do not intentionally exploit bugs or issues with Discord or any of the bots on our server. Knowingly exploiting bugs in Discord or any of our bots in order to cause harm will result in a permanent ban from our community.
