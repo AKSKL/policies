@@ -25,7 +25,7 @@ Do not intentionally exploit bugs or issues with Discord or any of the bots on o
 Do not post spam. Our definition of "spam" includes unsolicited advertising, [copypastas](https://www.urbandictionary.com/define.php?term=copypasta) and false PSAs. We also do not permit trolling of any kind in our community.
 
 ## NSFW
-Do not use vulgar language excessively. Do not post any messages that contain content that is NSFW. NSFW content includes, but is not limited to, pornography, violence and other distributing or objectionable content. Content that is prohibited by the [Discord Community Guidelines](https://discordapp.com/guidelines) is strictly forbidden in our community.
+Do not use vulgar language excessively. Do not post any messages that contain content that is NSFW. NSFW content includes, but is not limited to, pornography, violence, and other disturbing or objectionable content. Content that is prohibited by the [Discord Community Guidelines](https://discordapp.com/guidelines) is strictly forbidden in our community.
 
 ## Contacting Staff
 If you have a question for staff, please use the server to communicate with them. Do not send a direct message to staff unless they ask you to do so. If you find a security issue with our bots or website, please report it to us responsibly. Security vulnerabilities may be sent to us by email at security@typicalbot.com.
