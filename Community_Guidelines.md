@@ -1,5 +1,5 @@
 # Community Guidelines
-In order to protect the experience and safety of the members of our community, we restrict the type of behavior and content that we allow. Every member is expected to adhere to the guidelines set forth in these Community Guidelines. Failure to do so may result in the temporary or permanent banning of your account.
+In order to protect the experience and safety of the members of our community, we restrict the type of behavior and content that is permitted. Every member is expected to adhere to the guidelines set forth in these Community Guidelines. Failure to do so may result in the temporary or permanent banning of your account.
 
 ---
 
